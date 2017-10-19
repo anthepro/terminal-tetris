@@ -27,7 +27,7 @@
 #define DROPINTERVAL (DELAY/1000) * ((300 - level*13)/5)
 //delay is the delay between two commands, here to avoid raping processor
 #define DELAY 7777
-#define MAXLEVEL 30
+#define MAXLEVEL 20
 //number of lines that have to be cleared for lvl up
 #define LINESFORLVLUP 10
 //key bindings, all should be lowercase letters
