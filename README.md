@@ -1,7 +1,7 @@
 # terminal-tetris
 Tetris written in C for linux terminal, featuring top notch ASCII graphics based on the original tetris game.
 
-##Screenshots
+## Screenshots
 
 ![Alt text](screenshot1.jpg?raw=true "In game")
 
