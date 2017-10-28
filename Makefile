@@ -7,7 +7,7 @@ INCLUDES=
 
 LFLAGS=
 
-LIBS=-lncurses
+LIBS=-lncurses -ltinfo
 
 SRCS=tetris.c
 
